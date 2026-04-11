@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "twilio": "^4.11.0",
-    "@twilio/runtime-handler": "1.3.0",
-    "axios": "^1.4.0",
+    "@twilio/runtime-handler": "2.0.0",
+    "axios": "^1.15.0",
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.7",
@@ -18,7 +18,7 @@
     "twilio-flex-token-validator": "^1.5.6"
   },
   "devDependencies": {
-    "twilio-run": "^3.5.4"
+    "twilio-run": "^4.0.0"
   },
   "engines": {
     "node": "18"
